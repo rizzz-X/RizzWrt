@@ -6,7 +6,7 @@ on:
       board_version:
         description: 'Select board version to compile'
         required: true
-        default: 's905x'
+        default: 's905x-b860h'
         type: choice
         options:
           - s905x
